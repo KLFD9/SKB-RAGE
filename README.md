@@ -17,9 +17,11 @@ Nous développons par passions, par curiosité, mais aussi sur notre temps libre
 ## Contribution
 Si vous souhaitez contribuer à ce projet, n'hésitez pas à envoyer des demandes. tous les contributeurs seront crédités.
 
-#En cours
+##En cours
 
-- [x] #Setting project
-- [ ] Create a Login Form Interface
-- [ ] Create a /me design form
-- [ ] Take a coffee :tada:
+
+- [x] Boire 5 cafés jours ☕
+- [x] #Setting project 💻
+- [ ] Create a Login Form Interface 😲
+- [ ] Create a /me design form 🗨️
+
