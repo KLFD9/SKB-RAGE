@@ -3,10 +3,9 @@
 
 # SKB-RAGE
 Ce dépôt contient une collection de scripts personnalisés pour les serveurs RAGE Multiplayer. Les scripts sont conçus pour améliorer l'expérience de jeu en ajoutant de nouvelles fonctionnalités et en optimisant les systèmes existants.
+Les fonctionnalités incluent un système de chat amélioré, des commandes de modération et des événements pour gérer les connexions des joueurs.
 
-Les scripts sont conçus pour améliorer l'expérience de jeu en ajoutant de nouvelles fonctionnalités et en optimisant les systèmes existants. Les fonctionnalités incluent un système de chat amélioré, des commandes de modération et des événements pour gérer les connexions des joueurs.
-
-Les scripts sont écrits en JavaScript, html , css, C# et sont compatibles avec les serveurs RAGE Multiplayer sous Grand Theft Auto V."
+Les scripts sont écrits en JavaScript, Html , Css , C# et sont compatibles avec les serveurs RAGE Multiplayer sous Grand Theft Auto V."
 
 ## A Propos
 
