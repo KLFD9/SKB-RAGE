@@ -1,3 +1,6 @@
+![Logo skb rage France! en dev](https://cdn.discordapp.com/attachments/379376488878702593/1097899763623530526/skbrage.jpg)
+
+
 # SKB-RAGE
 Ce dépôt contient une collection de scripts personnalisés pour les serveurs RAGE Multiplayer. Les scripts sont conçus pour améliorer l'expérience de jeu en ajoutant de nouvelles fonctionnalités et en optimisant les systèmes existants.
 
