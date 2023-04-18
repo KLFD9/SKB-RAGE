@@ -17,8 +17,8 @@ Nous développons par passions, par curiosité, mais aussi sur notre temps libre
 ## Contribution
 Si vous souhaitez contribuer à ce projet, n'hésitez pas à envoyer des demandes. tous les contributeurs seront crédités.
 
-##En cours
 
+## Checklist
 
 - [x] Boire 5 cafés jours ☕
 - [x] #Setting project 💻
