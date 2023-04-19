@@ -21,6 +21,9 @@ Si vous souhaitez contribuer à ce projet, n'hésitez pas à envoyer des demande
 
 - [x] Boire 5 cafés jours ☕
 - [x] #Setting project 💻
+- [x] Message de bienvenue 
+- [x] Spawn vehicule /vehicule [Nom du véhicule]
+- [x] Suppression vehicule /vehiculesup actif en conducteur seulement
 - [ ] Create a Login Form Interface 😲
 - [ ] Create a /me design form 🗨️
 
