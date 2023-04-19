@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+
+body {
+  display: none;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+.compteur {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.bar1 {
+  position: relative;
+  padding: 0.45vw;
+  color: #fab812;
+  padding: 15px;
+  width: 5vw;
+  top: 77vh;
+  left: 89vw;
+  transform: rotate(-60deg);
+  transform-origin: left top;
+}
+
+.fas {
+  transform: rotate(60deg);
+  position: absolute;
+  margin: 0;
+  top: 18vh;
+  right: 1.7vh;
+  align-items: center;
+  align-content: center;
+}
+
+.line1 {
+  transform: skew(-10deg);
+  position: absolute;
+  background: rgb(0, 0, 0);
+  width: 2.5vw;
+  height: 0.3vw;
+  top: 8.1vw;
+  border-radius: 5vw;
+  left: 1vw;
+}
+
+.inline1 {
+  background: #fab812;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  border-radius: 5vw;
+}
+
+.bar2 {
+  position: absolute;
+  padding: 0.25vw;
+  color: #000000;
+  width: 10vw;
+  height: 2.3vw;
+  transform: skew(-20deg);
+  border-radius: 0.1vw;
+  top: 83vh;
+  left: 85vw;
+}
+
+.kmh {
+  position: absolute;
+  right: 2.5vw;
+  font-size: 5em;
+  top: -0.6vw;
+  font-weight: 800;
+  font-style: oblique;
+  letter-spacing: -0.01vw;
+  font-family: "Righteous", cursive;
+  color: #fff;
+}
+
+.kmhT {
+  position: absolute;
+  right: 2.2vw;
+  font-size: 1em;
+  top: -0.8vw;
+  font-weight: 400;
+  font-family: "Righteous", cursive;
+  color: #fff;
+}
+
+@media screen and (max-width: 1920px) {
+  .fas {
+    transform: rotate(60deg);
+    position: absolute;
+    margin: 0;
+    top: 13vh;
+    right: 6.8vh;
+    align-items: center;
+    align-content: center;
+  }
+
+  .line1 {
+    transform: skew(-10deg);
+    position: absolute;
+    background: rgb(0, 0, 0);
+    width: 4vw;
+    height: 0.4vw;
+    top: 8.1vw;
+    border-radius: 5vw;
+    left: -3.3vw;
+  }
+
+  .inline1 {
+    background: #fab812;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    border-radius: 7vw;
+  }
+}
